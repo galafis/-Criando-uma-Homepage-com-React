@@ -35,4 +35,4 @@ https://github.com/digitalinnovationone/desafio02-ts
 
 ---
 
-Projeto feito como parte da formação em TypeScript e Chakra UI pela DIO 🚀
+Projeto feito por mim, como parte da formação em TypeScript e Chakra UI pela DIO 🚀
