@@ -20,7 +20,7 @@ Este projeto é parte de um desafio prático da DIO, com o objetivo de criar com
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/pagina-inicial-chakra-ts
+git clone https://github.com/galafis/-Criando-uma-Homepage-com-React
 
 # Instale as dependências
 npm install
@@ -31,7 +31,7 @@ npm run dev
 
 ## 🔗 Baseado em
 
-[https://github.com/digitalinnovationone/desafio02-ts](https://github.com/digitalinnovationone/desafio02-ts)
+https://github.com/digitalinnovationone/desafio02-ts
 
 ---
 
