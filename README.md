@@ -36,3 +36,22 @@ npm run dev
 ---
 
 Projeto feito como parte da formação em TypeScript e Chakra UI pela DIO 🚀
+
+## 📋 Descrição
+
+Descreva aqui o conteúdo desta seção.
+
+
+## 📦 Instalação
+
+Descreva aqui o conteúdo desta seção.
+
+
+## 💻 Uso
+
+Descreva aqui o conteúdo desta seção.
+
+
+## 📄 Licença
+
+Descreva aqui o conteúdo desta seção.
